@@ -171,7 +171,7 @@ Para desplegar la aplicación en docker debes seguir estos pasos:
 2. **Clona el repositorio**:
 
    ```bash
-   git clone https://github.com/avaldominos/v4.git
+   git clone https://github.com/avaldominos/avm_practica_docker.git
 
 3. **Construye los contenedores**:
    
